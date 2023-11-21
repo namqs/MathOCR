@@ -1,4 +1,5 @@
-Modelo de reconhecimento de caracteres matemáticos manuscritos, através de uma Rede Neural Convolucional (CNN). Criado a fim de ser utilizado no projeto de um Tutor Inteligente, à ser utilizado na área da educação.
+## MathOCR
+Modelo de reconhecimento de caracteres matemáticos manuscritos, através de uma Rede Neural Convolucional (CNN). Criado a fim de ser utilizado no projeto de um Tutor Inteligente, à ser utilizado na área da educação. <br><br>
 
 <h2>Treinar</h2>
 Para utilizar o código acima e realizar o treino do modelo, siga essas etapas:
