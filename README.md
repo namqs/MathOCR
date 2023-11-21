@@ -1,4 +1,4 @@
-## MathOCR
+## MathOCR 📚✖️➕➗🔢
 Modelo de reconhecimento de caracteres matemáticos manuscritos, através de uma Rede Neural Convolucional (CNN). Criado a fim de ser utilizado no projeto de um Tutor Inteligente, à ser utilizado na área da educação. <br><br>
 
 <h2>Treinar</h2>
