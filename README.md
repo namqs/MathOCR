@@ -12,12 +12,14 @@ Para utilizar o código acima e realizar o treino do modelo, siga essas etapas:
 
 
 <h2>Testar</h2>
-1) Altere o caminho em Teste.py para a imagem que deseja testar.<br>
-2) Abra o terminal.<br>
-3) No windows, digite: "python teste.py"
+1) Baixe o modelo pré-treinado no link fornecido abaixo.<br>
+2) Altere o caminho em "teste.py" para o diretório do modelo baixado.<br>
+3) Altere o caminho em "teste.py" para a imagem que deseja testar.<br>
+4) Abra o terminal.<br>
+5) No windows, digite: "python teste.py"
 
 <h2>Dataset e Modelo pré-treinado</h2>
-Link para o drive: https://drive.google.com/drive/folders/1NCkfvu4bruAAUm7MHWEfmmp5TPcANPF_?usp=sharing"
+Link para o drive: https://drive.google.com/drive/folders/1NCkfvu4bruAAUm7MHWEfmmp5TPcANPF_?usp=sharing
 
 <h2>Especificações</h2>
 - Necessário Python 3 ou superior e tensorflow 2.14<br>
