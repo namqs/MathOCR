@@ -1,0 +1,2 @@
+# MathOCR
+IA de reconhecimento
