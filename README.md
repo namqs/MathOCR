@@ -17,6 +17,6 @@ Para utilizar o código acima e realizar o treino do modelo, siga essas etapas:
 3) No windows, digite: "python teste.py"
 
 <h2>Dataset e Modelo pré-treinado</h2>
-<a href=">https://drive.google.com/drive/folders/1NCkfvu4bruAAUm7MHWEfmmp5TPcANPF_?usp=sharing">Link para o drive</a
+Link para o drive: https://drive.google.com/drive/folders/1NCkfvu4bruAAUm7MHWEfmmp5TPcANPF_?usp=sharing"
 
 Os caracteres interpretados pelo modelo são: 
