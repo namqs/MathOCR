@@ -1,4 +1,4 @@
-Modelo de reconhecimento de caracteres matemáticos manuscritos, criado a fim de ser utilizado no projeto de um Tutor Inteligente, à ser utilizado na área da educação.
+Modelo de reconhecimento de caracteres matemáticos manuscritos, através de uma Rede Neural Convolucional (CNN). Criado a fim de ser utilizado no projeto de um Tutor Inteligente, à ser utilizado na área da educação.
 
 <h2>Treinar</h2>
 Para utilizar o código acima e realizar o treino do modelo, siga essas etapas:
@@ -19,4 +19,7 @@ Para utilizar o código acima e realizar o treino do modelo, siga essas etapas:
 <h2>Dataset e Modelo pré-treinado</h2>
 Link para o drive: https://drive.google.com/drive/folders/1NCkfvu4bruAAUm7MHWEfmmp5TPcANPF_?usp=sharing"
 
-Os caracteres interpretados pelo modelo são: 
+<h2>Especificações</h2>
+- Necessário Python 3 ou superior e tensorflow 2.14<br>
+- Memória ram mínima: 8 GB<br>
+- Caracteres reconhecidos: (, ), +, 0, 2, 3, 4, 5, 6, 7, 8, 9, a, α, b, β, cos, d, δ, /, e, f, γ, g, >, h, i, ∈, ∞, ∫, k, <=, lim, log, <, m, n, >=, o, p, Φ, π, +/-, q, r, s, σ, sin, √, ∑, tan, t, θ, *, u, v, w, x, y, z, {, }.
