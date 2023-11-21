@@ -1,7 +1,7 @@
 ## MathOCR 📚🔢📝
 Modelo de reconhecimento de caracteres matemáticos manuscritos, através de uma Rede Neural Convolucional (CNN). Criado a fim de ser utilizado no projeto de um Tutor Inteligente, à ser utilizado na área da educação. <br><br>
 
-<h2>Treinar</h2> 🔢
+<h2>Treinar 🔢</h2> 
 Para utilizar o código acima e realizar o treino do modelo, siga essas etapas:
 <br><br>
 1) Acesse o link fornecido abaixo para fazer o download do dataset.<br>
@@ -12,7 +12,7 @@ Para utilizar o código acima e realizar o treino do modelo, siga essas etapas:
    No linux: digite "python3 main.py"<br>
 
 
-<h2>Testar</h2> 📝
+<h2>Testar 📝</h2>
 1) Baixe o modelo pré-treinado no link fornecido abaixo.<br>
 2) Altere o caminho em "teste.py" para o diretório do modelo baixado.<br>
 3) Altere o caminho em "teste.py" para a imagem que deseja testar.<br>
