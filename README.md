@@ -1,7 +1,14 @@
 Modelo de reconhecimento de caracteres matemáticos manuscritos, criado a fim de ser utilizado no projeto de um Tutor Inteligente, à ser utilizado na área da educação.
 
-<h2>Rodar código de treino</h2>
-Para rodar no windows, digite "python main.py"
+<h2>Treinar</h2>
+Para utilizar o código acima e realizar o treino do modelo, siga essas etapas:
+1) Acesse o link fornecido abaixo para fazer o download do dataset.
+2) Descompacte o dataset
+3) Altere o diretório para o dataset no código do arquivo "data_loader.py"
+4) Abra o terminal
+5) No windows: digite "python main.py"
+   No linux: digite "python3 main.py"
+
 
 <h2>Testar</h2>
 1) Altere o caminho em Teste.py para a imagem que deseja testar.
